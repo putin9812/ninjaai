@@ -8674,56 +8674,6 @@ b {
     padding: 20px 24px !important;
   }
 }
-.cid-u8ciYQg67C {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
-  background-color: #d8d5d1;
-  position: relative;
-  overflow: hidden;
-}
-.cid-u8ciYQg67C .row {
-  justify-content: center;
-}
-.cid-u8ciYQg67C .title-container {
-  max-width: 720px;
-  padding: 0;
-  margin-right: auto;
-  margin-left: auto;
-}
-.cid-u8ciYQg67C .mbr-section-title {
-  color: #161616;
-}
-.cid-u8ciYQg67C .mbr-section-subtitle {
-  color: #161616;
-  margin-top: 16px;
-}
-.cid-u8ciYQg67C .mbr-section-btn {
-  margin-top: 30px;
-}
-.cid-u8ciYQg67C .circle-blur {
-  position: absolute;
-  bottom: -15%;
-  right: 0;
-  display: block;
-  width: 440px;
-  height: 440px;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-align-self: center;
-  -ms-grid-row-align: center;
-  align-self: center;
-  border-radius: 500px;
-  background-image: linear-gradient(132deg, #ff7448 27%, #ff4848 50%, #6148ff 79%);
-  opacity: .97;
-  -webkit-filter: blur(64px) blur(64px);
-  filter: blur(64px) blur(64px);
-}
 .cid-tStAqYEAWC {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -8829,6 +8779,56 @@ b {
   margin-bottom: 0;
 }
 .cid-tStAqYEAWC .circle-blur {
+  position: absolute;
+  bottom: -15%;
+  right: 0;
+  display: block;
+  width: 440px;
+  height: 440px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-self: center;
+  -ms-grid-row-align: center;
+  align-self: center;
+  border-radius: 500px;
+  background-image: linear-gradient(132deg, #ff7448 27%, #ff4848 50%, #6148ff 79%);
+  opacity: .97;
+  -webkit-filter: blur(64px) blur(64px);
+  filter: blur(64px) blur(64px);
+}
+.cid-u8cmBRiLNU {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #d8d5d1;
+  position: relative;
+  overflow: hidden;
+}
+.cid-u8cmBRiLNU .row {
+  justify-content: center;
+}
+.cid-u8cmBRiLNU .title-container {
+  max-width: 720px;
+  padding: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+.cid-u8cmBRiLNU .mbr-section-title {
+  color: #161616;
+}
+.cid-u8cmBRiLNU .mbr-section-subtitle {
+  color: #161616;
+  margin-top: 16px;
+}
+.cid-u8cmBRiLNU .mbr-section-btn {
+  margin-top: 30px;
+}
+.cid-u8cmBRiLNU .circle-blur {
   position: absolute;
   bottom: -15%;
   right: 0;
